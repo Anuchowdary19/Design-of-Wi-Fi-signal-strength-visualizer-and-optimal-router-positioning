@@ -1,0 +1,2 @@
+# Design-of-Wi-Fi-signal-strength-visualizer-and-optimal-router-positioning
+The Wi-Fi Signal Strength Analyzer scans available networks, displays RSSI values, and allows selection of a specific SSID for analysis. It maps signal strength across a room and suggests optimal router placement to improve coverage, reduce dead zones, and ensure better wireless performance through spatial visualization and data-driven insights.
